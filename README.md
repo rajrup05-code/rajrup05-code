@@ -5,6 +5,7 @@
 Hi, I’m Rajrup Roy, a B.Tech Computer Science student with a strong interest in backend development and a growing ambition to become a full-stack developer. I enjoy building logical and well-structured solutions while understanding how systems work behind the scenes. Backend development is where I feel most confident, and I am currently expanding my knowledge by exploring frontend technologies to develop a more complete and versatile skill set.
 
 I have started building a solid foundation in C, Python, and Java, along with HTML and CSS. I am comfortable working with tools like VS Code, Git, and GitHub, and have experience using both Windows and Linux environments. As I continue my journey, I aim to strengthen my backend expertise while consistently improving my overall development skills through practical projects and continuous learning.
+
 If you share an interest in technology or want to collaborate on a project, feel free to reach out!
  ---
 ---
